@@ -12,9 +12,9 @@ Timeline Widget for Elementor page builder
 
 **Back end**
 
-![Screenshot_1](https://user-images.githubusercontent.com/6370697/63208316-69bc1d80-c0f4-11e9-9327-53c5ad03dbf0.png)
+![Screenshot_1](https://ps.w.org/3r-elementor-timeline-widget/assets/screenshot-1.png?rev=1959999)
 
-![Screenshot_2](https://user-images.githubusercontent.com/6370697/63208317-69bc1d80-c0f4-11e9-9d5a-52d26380306f.png)
+![Screenshot_2](https://ps.w.org/3r-elementor-timeline-widget/assets/screenshot-2.png?rev=1967121)
 
 
 **Front-end** 
