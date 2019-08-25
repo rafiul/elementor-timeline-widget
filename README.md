@@ -10,13 +10,15 @@ Timeline Widget for Elementor page builder
 
 ## Plugin Screenshots
 
-**Back end**
+**Search with Timeline keyword**
 
 ![Screenshot_1](https://ps.w.org/3r-elementor-timeline-widget/assets/screenshot-1.png?rev=1959999)
+
+**Drag and drop on page**
 
 ![Screenshot_2](https://ps.w.org/3r-elementor-timeline-widget/assets/screenshot-2.png?rev=1967121)
 
 
-**Front-end** 
+**Style it from front end** 
 
 ![Screenshot_3](https://ps.w.org/3r-elementor-timeline-widget/assets/screenshot-3.png?rev=1967121)
