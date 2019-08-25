@@ -2,10 +2,10 @@
 Timeline Widget for Elementor page builder
 
 ## Plugin Documentation
-1. Upload the **elementor-timeline-widget** plugin directory to the /wp-content/plugins/ directory.
+1. Download directly [from WordPress.org](https://wordpress.org/plugins/3r-elementor-timeline-widget/) or Upload the **elementor-timeline-widget** plugin directory to the /wp-content/plugins/ directory.
 2. Activate **elementor-timeline-widget** through the 'Plugins' menu in WordPress.
-3. Go to Appearence-> Widgets->WP category Post widget
-4. Drag and drop to sidebar or your desire widget bar.
+3. Go to Page-> Edit with Elementor button find widget name timeline.
+4. Drag and drop to page and style it what you want.
 
 
 ## Plugin Screenshots
